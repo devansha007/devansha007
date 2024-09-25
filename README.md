@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Devansh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am an accomplished full-stack developer with a deep passion for software development, machine learning, and cloud computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansha007&label=Profile%20views&color=0e75b6&style=flat" alt="devansha007" /> </p>
 
