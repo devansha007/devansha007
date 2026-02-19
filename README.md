@@ -28,7 +28,8 @@ Role: Software Developer
 Interests: Machine Learning, Cloud Computing, Scalable System Design
 Currently_Working_On: Django
 Currently_Learning: Django (Advanced Backend Development)
-Expertise: >React >React >Native >Node.js >ExpressJS >Firebase >GCP >AWS >AI / ML / DL
+Expertise: >React >React >Native >Node.js >ExpressJS
+           >Firebase >GCP >AWS >AI / ML / DL
 Contact: agarwaldevansha007@gmail.com
 ```
 </td>
