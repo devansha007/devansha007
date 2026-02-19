@@ -86,5 +86,3 @@ Contact: agarwaldevansha007@gmail.com
 THINK. CREATE. SOLVE. REPEAT.
 ```
 </div>
-
----
