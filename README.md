@@ -2,6 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Hi!_I'm_Devansh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="10000"/>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/devansh22003">
+    <img width="150px"
+         src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1E3A8A"/>
+  </a>
+</p>
+
 <div align="center">
 
   <a href="https://github.com/devansha007?tab=followers">
