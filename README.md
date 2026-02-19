@@ -83,7 +83,8 @@ Contact: agarwaldevansha007@gmail.com
 <div align="center">
   
 ```yaml
-Mindset: Think. Create. Solve. Repeat.
+THINK. CREATE. SOLVE. REPEAT.
 ```
-
 </div>
+
+---
