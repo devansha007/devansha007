@@ -2,26 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=200&section=header&text=Hi!_I'm_Devansh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="10000"/>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/devansh22003">
-    <img width="150px"
-         src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1E3A8A"/>
-  </a>
-</p>
-
 <div align="center">
-
-  <a href="https://github.com/devansha007?tab=followers">
-    <img width="150px" 
-         src="https://custom-icon-badges.herokuapp.com/github/followers/devansha007?color=0A192F&labelColor=1E3A8A&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff"/></a>
-
-  <a href="https://github.com/devansha007">
-    <img width="120px" 
-         src="https://komarev.com/ghpvc/?username=devansha007&label=Profile%20Views&color=1E3A8A&style=for-the-badge"/></a>
-
+    <a href="https://github.com/devansha007?tab=followers">
+        <img src="https://custom-icon-badges.herokuapp.com/github/followers/devansha007?color=0A192F&labelColor=1E3A8A&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff"/></a>
+     <a href="https://linkedin.com/in/devansh22003">
+        <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1E3A8A"/></a>
+    <a href="https://github.com/devansha007">
+        <img src="https://komarev.com/ghpvc/?username=devansha007&label=Profile%20Views&color=1E3A8A&style=for-the-badge"/></a>
 </div>
-
-<br/>
 
 ---
 <div align="center">
