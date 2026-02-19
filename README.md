@@ -17,11 +17,12 @@
 <br/>
 
 ---
+<div align="center">
 <table>
 <tr>
 <td width="60%" valign="top">
 
-## 👨‍💻 About me!
+<h2 align="center">👨‍💻 About me!</h2>
 
 ```yaml
 Role: Software Developer
@@ -41,6 +42,7 @@ Contact: agarwaldevansha007@gmail.com
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
