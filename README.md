@@ -35,7 +35,7 @@ Contact: agarwaldevansha007@gmail.com
 
 <td width="40%" align="right">
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="280"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250"/>
 
 </td>
 </tr>
