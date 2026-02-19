@@ -21,8 +21,9 @@
 <table>
 <tr>
 <td width="60%" valign="top">
-
-<h2 align="center">👨‍💻 About me!</h2>
+<div align="center">
+  <h2><code>👨‍💻 About me!</code></h2>
+</div>
 
 ```yaml
 Role: Software Developer
@@ -46,7 +47,9 @@ Contact: agarwaldevansha007@gmail.com
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
+  <h2><code>🛠 Tech Stack</code></h2>
+</div>
 
 <div align="center">
 
@@ -68,9 +71,9 @@ Contact: agarwaldevansha007@gmail.com
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
+<div align="center">
+  <h2><code>📊 GitHub Analytics</code></h2>
+</div>
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=devansha007&theme=tokyonight&background=0A192F&ring=1E3A8A&fire=1E3A8A&currStreakLabel=ffffff&hide_border=true"/>
@@ -82,8 +85,10 @@ Contact: agarwaldevansha007@gmail.com
 </div>
 
 ---
-
 <div align="center">
-
+  
 ```yaml
 Mindset: Think. Create. Solve. Repeat.
+```
+
+</div>
